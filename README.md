@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmanF34
-- 👀 I’m interested in Software Coding and Computer Architecture 
+- 👀 I’m interested in Software and Cybersecurity
 - 🌱 I’m currently learning C++ Programming
 - 💞️ I’m looking to collaborate on any of my codes with other Developers
 - 📫 You can reach me through Insagram or Gmail
